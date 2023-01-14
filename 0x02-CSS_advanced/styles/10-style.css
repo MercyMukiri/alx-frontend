@@ -33,7 +33,7 @@ html {
     --line-height-big: 1.8;
 
     /* Define custom section-header property */
-    section-header-align: center;
+    --section-header-align: center;
 }
 
 body {
